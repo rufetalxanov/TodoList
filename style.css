@@ -22,11 +22,18 @@ body {
 
 .todoInput {
   margin: 10px;
+  text-align: center;
   margin-left: 90px;
   width: 260px;
   height: 5vh;
   border-radius: 10px;
   border: solid 1px rgb(56, 109, 207);
+}
+
+.btngroup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .none {
@@ -50,5 +57,3 @@ body {
 .show {
   display: block;
 }
-
-
