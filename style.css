@@ -1,0 +1,54 @@
+body {
+  background-color: #f8f0e5;
+}
+
+.textApp {
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  color: #102c57;
+  text-align: center;
+  padding-top: 80px;
+  letter-spacing: 1px;
+}
+
+.content {
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+#todoList {
+  list-style: none;
+}
+
+.todoInput {
+  margin: 10px;
+  margin-left: 90px;
+  width: 260px;
+  height: 5vh;
+  border-radius: 10px;
+  border: solid 1px rgb(56, 109, 207);
+}
+
+.none {
+  font-size: 20px;
+  color: rgba(10, 1, 1, 0.555);
+  display: none;
+}
+
+.btn {
+  width: 9vh;
+  height: 5vh;
+  border-radius: 5px;
+  border: solid 1px #102c57;
+  margin: 10px;
+}
+
+.none {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+
